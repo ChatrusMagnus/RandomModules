@@ -15,7 +15,7 @@ import ghidra.program.model.listing.FunctionIterator;
 import ghidra.program.model.listing.FunctionManager;
 import ghidra.program.model.listing.Program;
 
-public class StupidFuntion extends GhidraScript {
+public class StupidFunction extends GhidraScript {
 
 	@Override
 	protected void run() throws Exception {
